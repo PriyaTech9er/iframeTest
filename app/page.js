@@ -17,7 +17,7 @@ export default function Home() {
         <iframe
           is="x-frame-bypass"
           id="iframeId"
-          src="https://novo-onboard.netlify.app/"
+          src="https://dashing-figolla-55edca.netlify.app/"
           name="truvoice-widget"
           height="640px"
           width="1024px"
